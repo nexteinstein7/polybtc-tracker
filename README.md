@@ -1,5 +1,5 @@
-# polybtc-tracker
-tracker to showcase different versions of BTC that exist on Polygon. To track various versions and show growth of the same.
+# PolyBTC Tracker: Unveiling the Multiverse of Bitcoin on Polygon
+tracker to showcase different versions of BTC that exist on Polygon woith the help of Luniverse NOVA API. To track various versions and show growth of the same.
 
 There are a number of Bitcoin tokens on Polygon, including:
 • Wrapped Bitcoin (WBTC)
